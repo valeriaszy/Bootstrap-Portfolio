@@ -216,3 +216,6 @@ body {
     background: #4aaaa5;
     border: 0 none;
   }
+.portfolio-image{
+  margin: 20px auto;
+}
